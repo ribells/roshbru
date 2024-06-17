@@ -1,0 +1,15 @@
+With Rosha on June 17 (for the first week of internship):
+
+We will both set up a Python notebook and try to see how well mediapipe works on static images, using this example:
+
+https://mediapipe.readthedocs.io/en/latest/solutions/face_detection.html
+
+We can share results via our GitHub repository:
+https://github.com/ribells/roshbru
+
+We can explore the pose services via the pose example:
+Pose_Landmarker.ipynb
+which is in our week1 GitHub folder
+
+Bruce will also read and investigate any web page links that Rosha sends.
+
