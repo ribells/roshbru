@@ -7,10 +7,9 @@ https://mediapipe.readthedocs.io/en/latest/solutions/face_detection.html
 We can share results via our GitHub repository:
 https://github.com/ribells/roshbru
 
-We can explore the pose services via the pose example:
+We can explore the pose services via this pose example notebook:
 Pose_Landmarker.ipynb
-which is in our week1 GitHub folder
 
-Bruce will also read and investigate these web page links that Rosha suggested:
+Bruce will also read and investigate these web page links that Rosha suggested (to focus more on the face):
 https://chuoling.github.io/mediapipe/solutions/face_mesh.html
 https://github.com/google-ai-edge/mediapipe/blob/master/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png
