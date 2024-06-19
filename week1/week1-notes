@@ -1,8 +1,10 @@
 With Rosha on June 17 (for the first week of internship):
 
 We will both set up a Python notebook and try to see how well mediapipe works on static images, using this example:
-
 https://mediapipe.readthedocs.io/en/latest/solutions/face_detection.html
+
+Here's how we can pursue face detection and mesh generation:
+https://sefiks.com/2022/01/14/deep-face-detection-with-mediapipe/
 
 We can share results via our GitHub repository:
 https://github.com/ribells/roshbru
