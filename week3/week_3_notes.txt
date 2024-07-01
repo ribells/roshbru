@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=LGPBRH6Hqw8
 
 And here is the Mediapipe face mesh documentation:
 https://github.com/google-ai-edge/mediapipe/wiki/MediaPipe-Face-Mesh
+
+Goal is to get the mesh working on images and video of Rosha
+We can also play with different face types, such as cats for example.
