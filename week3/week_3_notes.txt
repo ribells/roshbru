@@ -1,0 +1,9 @@
+# Now we want to use our own customized facemesh instead of the default Mediapipe one 
+
+although the default has 468 mesh points
+
+Here's a video to consider:
+https://www.youtube.com/watch?v=LGPBRH6Hqw8
+
+And here is the Mediapipe face mesh documentation:
+https://github.com/google-ai-edge/mediapipe/wiki/MediaPipe-Face-Mesh
