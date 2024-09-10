@@ -10,8 +10,14 @@ This idea was inspired by Harold Cohen’s project AARON, which is one of the ea
 See: https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art
 
 Links to resources: 
+-------------------
+
+1) Next steps for binary face mesh use:
 https://github.com/google-ai-edge/mediapipe/tree/cccf6244d3fc4afc53082a397e764a8560eec96e
+
+2) Proto file access link:
 https://github.com/google-ai-edge/mediapipe/blob/cccf6244d3fc4afc53082a397e764a8560eec96e/mediapipe/modules/face_geometry/protos/mesh_3d.proto
 https://github.com/google-ai-edge/mediapipe/issues/1155
-https://www.datadoghq.com/blog/engineering/protobuf-parsing-in-python/
 
+3) Code for pbtxt to pbbinary conversion (works but unsure of the binary is what we need):
+https://www.datadoghq.com/blog/engineering/protobuf-parsing-in-python/
