@@ -12,7 +12,7 @@ See: https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art
 Links to resources: 
 -------------------
 
-1) Next steps for binary face mesh use:
+1) Next steps for binary face mesh use uses GitHub code (following the blog commentary):
 https://github.com/google-ai-edge/mediapipe/tree/cccf6244d3fc4afc53082a397e764a8560eec96e
 
 2) Proto file access link:
